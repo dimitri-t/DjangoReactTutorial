@@ -1,6 +1,8 @@
 # DjangoReactTutorial
 
-This is the code I used from a youtube tutorial to learn more about Django and React. The series is from "Tech it With Tim, Django & React Full Stack Web App Tutorial series"
+This is the code I used from a youtube tutorial to learn more about Django and React. The series is from "Tech it With Tim, Django & React Full Stack Web App Tutorial series".
+
+A few things in this tutorial are a bit outdated, such as using class based components in React instead of functional components. However, it was still a very good tutorial to follow along and code.
 
 ## Setup Instructions
 
